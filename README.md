@@ -6,7 +6,7 @@ This walkthrough will serve as a guide through the process of creating Windows a
 Microsoft Azure
 # Operating System 
 Windows 10 Version (22H2)
-# Step 1 - Create A Microsoft Azure Subscribion
+# <ins> Step 1 - Create A Microsoft Azure Subscribion </ins>
 
 (-) Go to https://portal.azure.com, sign in with your Microsoft account. The azure free trial is based on the time window of 30 days from the account creation or whenever the $200 allotted credit runs out. If you don’t use all your credit at the end of the first 30 days, it’s lost. Alternatively, there is a pay-as-you go feature if the free trial period has ended.
 
