@@ -1,6 +1,8 @@
+![Azure preview](https://github.com/user-attachments/assets/80076bf9-d881-4aa4-b384-816db4e90447)
+
 # Azure-Virtual-Machine-Creation
 This walkthrough will serve as a guide through the process of creating Windows and Linux virtual machines in the Microsoft Azure cloud. The entire process, step-by-step, demonstrates how to set up and configure virtual machines for hands-on experience with cloud infrastructure. 
-![Azure preview](https://github.com/user-attachments/assets/80076bf9-d881-4aa4-b384-816db4e90447)
+
 
 # Environments Used
 Microsoft Azure
@@ -10,29 +12,29 @@ Windows 10 Version (22H2)
 
 (-) Go to https://portal.azure.com, sign in with your Microsoft account. The azure free trial is based on the time window of 30 days from the account creation or whenever the $200 allotted credit runs out. If you don’t use all your credit at the end of the first 30 days, it’s lost. Alternatively, there is a pay-as-you go feature if the free trial period has ended.
 
-# Step 2 - Get logged into the Azure Portal
+# <ins> Step 2 - Get logged into the Azure Portal </ins>
 
-# Step 3 - Observe the portal (Resource Groups, Virtual Machines, EntraID)
+# <ins> Step 3 - Observe the portal (Resource Groups, Virtual Machines, EntraID) </ins>
 
-# Step 4 - Create a Resource Group Within the Azure Portal
+# <ins> Step 4 - Create a Resource Group Within the Azure Portal </ins>
 ![1 create resourse 2](https://github.com/user-attachments/assets/b7ce37b4-0795-49b6-af7a-2a888c415903)
 
-# Step 5 - Create a Storage Account within the Resource Group created in Step 4
+# <ins> Step 5 - Create A Storage Account Within The Resource Group Created In Step 4 </ins>
 
-# Step 6 - Create a text file on your local desktop
+# <ins> Step 6 - Create A Text File On Your Local Desktop </ins>
 
-# Step 7 - Upload the text file you created to the Azure Storage Account
+# <ins> Step 7 - Upload The Text File You Created To The Azure Storage Account </ins>
 
-# Step 8 - Edit the file within the Storage Account (within the Azure Portal)
+# <ins> Step 8 - Edit The File Within The Storage Account (within the Azure Portal) </ins>
 
-# Step 9 - Download the text file
+# <ins> Step 9 - Download The Text File </ins>
 
-# Step 10 - Open the file and observe the changes
+# <ins> Step 10 - Open The File And Observe The Changes </ins>
 
-# Step 11 - Delete the Resource Group created in step 4
+# Step 11 - Delete The Resource Group Created In Step 4 </ins>
 The purpose of this is to not incur cost
 
-# Step 12 - Verify that the Resource Group has been deleted
+# <ins> Step 12 - Verify That The Resource Group Has Been Deleted </ins>
 
 
 
